@@ -5,13 +5,13 @@ function About() {
         <h2>Sobre mí</h2>
 
         <p>
-          IT Support Specialist | IT Operations SAAS B2B | Tech Consulting
+        
           
         </p>
 
         <p>
-          Dessarrollo, despliegue, soporte y optimización de sistemas.
-          Me motivan los equipos comprometidos con la mejora continua.
+          Desarrollo, despliegue, soporte y optimización de sistemas.
+          Me motivan los equipos comprometidos con la mejora continua y los sistemas que mejoran las relaciones humanas.
           
         </p>
 

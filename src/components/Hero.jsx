@@ -19,7 +19,7 @@ function Hero() {
           >
             GitHub
           </a>
-          <a href="/CV_Fabricio Guiffrey_2026.pdf" download>
+          <a href="/CV_Fabricio Guiffrey_2026.pdf" download = "CV_Fabricio_Guiffrey_2026.pdf" type="application/pdf">
           Descargar CV
           </a>
         </div>
@@ -29,3 +29,5 @@ function Hero() {
 }
 
 export default Hero
+
+

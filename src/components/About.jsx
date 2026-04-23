@@ -5,19 +5,12 @@ function About() {
         <h2>Sobre mí</h2>
 
         <p>
+          Trabajo con muchos equipos en distintos proyectos. Me motivan especialmente aquellos
+          que buscan la mejora continua de los sistemas para acompañar y facilitar las relaciones entre las personas.
         
-          
         </p>
-
-        <p>
-          Desarrollo, despliegue, soporte y optimización de sistemas.
-          Me motivan los equipos comprometidos con la mejora continua y los sistemas que mejoran las relaciones humanas.
-          
-        </p>
-
-        <p>
-          
-        </p>
+  
+        
       </div>
     </section>
   )

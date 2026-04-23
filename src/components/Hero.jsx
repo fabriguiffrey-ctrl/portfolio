@@ -3,11 +3,11 @@ function Hero() {
     <section className="hero">
       <div className="container">
         <h1>
-          Desarrollo aplicaciones y APIs que funcionan en el mundo real
+         IT Support Specialist | IT Operations SAAS B2B | Tech Consulting
         </h1>
 
         <p className="hero-subtitle">
-          Backend con Python + FastAPI. Expandiéndome a frontend con React.
+          Desarrollo, despliegue, soporte y optimización de sistemas.
         </p>
 
         <div className="hero-buttons">

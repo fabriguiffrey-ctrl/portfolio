@@ -5,18 +5,18 @@ function About() {
         <h2>Sobre mí</h2>
 
         <p>
-          Soy desarrollador enfocado en construir aplicaciones web y APIs que resuelven problemas reales.
-          Trabajo principalmente con Python, FastAPI y PostgreSQL.
+          IT Support Specialist | IT Operations SAAS B2B | Tech Consulting
+          
         </p>
 
         <p>
-          Actualmente estoy expandiendo mi stack hacia el frontend con React, con el objetivo de desarrollar
-          soluciones completas de punta a punta.
+          Dessarrollo, despliegue, soporte y optimización de sistemas.
+          Me motivan los equipos comprometidos con la mejora continua.
+          
         </p>
 
         <p>
-          Me interesa especialmente trabajar en proyectos donde la tecnología tenga impacto práctico
-          y donde pueda seguir aprendiendo y mejorando constantemente.
+          
         </p>
       </div>
     </section>

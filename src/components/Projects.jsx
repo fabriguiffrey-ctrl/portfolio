@@ -3,7 +3,7 @@ import { FaGithub } from "react-icons/fa"
 function Projects() {
   const projects = [
     { name: "Veterinaria", link: "https://github.com/tu-repo1" },
-    { name: "API Servicios", link: "https://github.com/tu-repo2" },
+    { name: "API MediCore", link: "https://github.com/fabriguiffrey-ctrl/medicore" },
     { name: "Login System", link: "#" },
     { name: "Dashboard", link: "#" },
     { name: "E-commerce", link: "#" },

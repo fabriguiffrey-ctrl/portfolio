@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://fabriguiffrey-ctrl.github.io",
+  "homepage": "https://fabriguiffrey-ctrl.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",

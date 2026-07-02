@@ -2,12 +2,12 @@ import { FaGithub } from "react-icons/fa"
 
 function Projects() {
   const projects = [
-    { name: "Veterinaria", link: "https://github.com/tu-repo1" },
+    { name: "Veterinaria", link: "https://github.com/fabriguiffrey-ctrl/veterinary-clinic-database" },
     { name: "API MediCore", link: "https://github.com/fabriguiffrey-ctrl/medicore" },
     { name: "Login System", link: "#" },
     { name: "Dashboard", link: "#" },
-    { name: "E-commerce", link: "#" },
-    { name: "Portfolio", link: "#" },
+    { name: "Prode", link: "https://github.com/fabriguiffrey-ctrl/prode" },
+    { name: "Portfolio", link: "https://fabriguiffrey-ctrl.github.io/portfolio/#" },
   ]
 
   return (

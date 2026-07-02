@@ -28,7 +28,7 @@ function Experience() {
         </div>
 
         <div className="experience-item">
-          <h3>Academia</h3>
+          <h3>Proyecto Aula</h3>
           <p>
             Método de aprendizaje que busca capacitar en competencias digitales con proyectos reales y buenas prácticas. Ingresá cuando quieras y aprendé a gestionar bases de datos, sitios web y aplicaciones que mejoran la vida de las personas.
           </p>

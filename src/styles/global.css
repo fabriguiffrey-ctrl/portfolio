@@ -361,3 +361,20 @@ Services
 .service-item p {
   color: #9ca3af;
 }
+
+
+/* =========================
+botón
+========================= */
+.btn-link{
+    display:inline-block;
+    margin-top:1rem;
+    color:var(--color-primary);
+    text-decoration:none;
+    font-weight:600;
+    transition:0.3s;
+}
+
+.btn-link:hover{
+    text-decoration:underline;
+}

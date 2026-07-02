@@ -30,6 +30,24 @@ function Services() {
             </p>
           </div>
 
+          <div className="service-item">
+            <h3>Consultoría y capacitaciones</h3>
+            <p>
+              Proyecto Aula es un ecosistema de apredizaje que ayuda a personas y empresas a adquirir competencias y conocimiento en TIC's 
+              
+
+              
+            </p>
+            <a
+                href="https://proyectoaula.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-link"
+                >
+                Saber más →
+              </a>
+          </div>
+
         </div>
       </div>
     </section>

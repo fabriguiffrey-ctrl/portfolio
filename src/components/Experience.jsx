@@ -23,7 +23,7 @@ function Experience() {
         <div className="experience-item">
           <h3>Prode</h3>
           <p>
-            Inspirado en las apuestas de Pronósticos Deportivos cree este prode sencillo, intuitivo y escalable que loguea usuarios, guarda resultados y genera rankings basados en la suma de los puntajes obtenidos por acertar o no los pronósticos.
+            Inspirado en el clima futbolístico del mundial y en las apuestas de Pronósticos Deportivos cree este prode sencillo, intuitivo y escalable que loguea usuarios, guarda resultados y genera rankings basados en la suma de los puntajes obtenidos por acertar o no los pronósticos.
           </p>
         </div>
 

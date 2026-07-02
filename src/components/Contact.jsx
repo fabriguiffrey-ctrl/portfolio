@@ -24,6 +24,7 @@ function Contact() {
           >
             LinkedIn
           </a>
+
         </div>
       </div>
     </section>

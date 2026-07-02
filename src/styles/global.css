@@ -238,7 +238,7 @@ PROJECTS
 }
 
 .project-tile:hover .project-icon {
-  color: #6366f1;
+  color: #5b5de2;
 }
 
 @media (min-width: 768px) {

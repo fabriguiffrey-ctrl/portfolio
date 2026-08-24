@@ -13,6 +13,14 @@ function Experience() {
         </div>
 
         <div className="experience-item">
+          <h3>DeToque</h3>
+          <p>
+            DeToque es un sistema que ofrece a los negocios la posibilidad de interactuar con clientes mediante dispositivos físicos touchless. El sistema ofrece a los usuarios administrar todos los aspectos digitales de su negocio a traves de un dashboard intuitivo que incluye métricas para la toma de decisiones.
+          </p>
+        </div>
+
+
+        <div className="experience-item">
           <h3>Sistema Veterinario</h3>
           <p>
             Desarrollo de sistema web para gestión de mascotas, dueños y tratamientos.

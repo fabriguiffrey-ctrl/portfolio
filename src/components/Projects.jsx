@@ -5,7 +5,7 @@ function Projects() {
     { name: "Veterinaria", link: "https://github.com/fabriguiffrey-ctrl/veterinary-clinic-database" },
     { name: "API MediCore", link: "https://github.com/fabriguiffrey-ctrl/medicore" },
     { name: "Login System", link: "#" },
-    { name: "Dashboard", link: "#" },
+    { name: "DeToque", link: "https://github.com/fabriguiffrey-ctrl/NFCLanding" },
     { name: "Prode", link: "https://github.com/fabriguiffrey-ctrl/prode" },
     { name: "Portfolio", link: "https://fabriguiffrey-ctrl.github.io/portfolio/#" },
   ]

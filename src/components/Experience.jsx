@@ -23,8 +23,7 @@ function Experience() {
         <div className="experience-item">
           <h3>Sistema Veterinario</h3>
           <p>
-            Desarrollo de sistema web para gestión de mascotas, dueños y tratamientos.
-            Modelado de base de datos y conexión con backend en Python.
+            Modelado de base de datos y conexión con backend en Python para desarrollo de sistema web para gestión de mascotas, dueños y tratamientos.  
           </p>
         </div>
 
